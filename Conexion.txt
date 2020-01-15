@@ -1,0 +1,4 @@
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+jdbc:sqlserver://gabriel-PC\GABRIEL-PC:1433;databaseName=CAC
+Axel_Luis
+ellanoteama
